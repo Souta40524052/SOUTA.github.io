@@ -6,6 +6,7 @@ Security Engineer specializing in offensive security, with a primary focus on We
 ### 2026
 - CVE-2026-64783
 - CVE-2026-64787
+- CVE-2026-84635
 
 ## BugBounty
 ### IssueHunt
